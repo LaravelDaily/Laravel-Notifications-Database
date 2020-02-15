@@ -2,6 +2,8 @@
 
 Repository for this article: [Laravel Notifications With “database” Driver: Internal Messages](https://quickadminpanel.com/blog/laravel-notifications-with-database-driver-internal-messages/)
 
+[!Laravel Notifications Database](https://quickadminpanel.com/blog/wp-content/uploads/2020/02/Screen-Shot-2020-02-15-at-6.21.14-PM-1024x485.png)
+
 - - - - -
 
 ## How to use
